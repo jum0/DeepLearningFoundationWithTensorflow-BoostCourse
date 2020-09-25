@@ -28,7 +28,7 @@
 #### Lec 04
 
 - Lec - [Lec 04: Multi-variable Linear Regression](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lec/Lec-04%20Multi-variable%20linear%20regression.pdf) ✅
-- Lab - [Lab 04: Multi-variable Linear Regression 를 TensorFlow 로 구현하기](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec%2004/Lab/Lab-04%20Multi-variable%20linear%20regression%20LAB.pdf) ✅
+- Lab - [Lab 04: Multi-variable Linear Regression 를 TensorFlow 로 구현하기](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lab/Lab-04%20Multi-variable%20linear%20regression%20LAB.pdf) ✅
 
 #### Lec 05
 
