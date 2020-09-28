@@ -1,36 +1,44 @@
-# [부스트코스] 텐서플로우로 시작하는 딥러닝 기초
+# 머신러닝과 딥러닝 BASIC
 
 ## 학습 목표
 
-- 딥러닝의 기본적인 이해
+- 머신러닝과 딥러닝의 기본적인 이해
 
 ## 학습 방식
 
-- 강의 듣기 및 PDF 에 마크업 도구를 이용해서 필기
-- 실습은 PDF 필기 및 [Jupyter Notebook](https://jupyter.org/) 으로 따라하며 진행
+- [edwith] 머신러닝과 딥러닝 BASIC 강의를 중심으로 진행
+- PDF 에 마크업 도구를 이용해서 필기
+- 실습은 실습 PDF 필기 및 Jupyter Notebook 으로 따라하며 진행
+
+## 학습 자료
+
+- 강의 슬라이드 (tf 1.x) - [[edwith] 머신러닝과 딥러닝 BASIC](https://www.edwith.org/others26/)
+- 실습 슬라이드 (tf 1.x) - [시즌 1 - 딥러닝의 기본](http://hunkim.github.io/ml/)
+  - 단, [텐서플로우로 시작하는 딥러닝 기초(tf 2.x)](https://www.edwith.org/boostcourse-dl-tensorflow)가 더 이해하기 좋을 경우 슬라이드를 대체해서 학습
+- 실습 코드 (tf 2.x) - [Jupter Notebook](https://github.com/deeplearningzerotoall/TensorFlow/tree/master/tf_2.x)
 
 ## PART-1 Basic ML
 
-#### Lec 01
+#### 01 - 머신러닝의 개념과 용어
 
-- Lec - [Lec 01: 기본적인 Machine Learning 의 용어와 개념 설명](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/tree/master/Part-1%20Basic%20ML/Lec01/Lec/Lec-01%20Machine%20Learning%20Basic.pdf) ✅
+- [기본적인 Machine Learning 의 용어와 개념 설명](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/01/01_Machine_Learning_Basic.pdf) ✅
 
-#### Lec 02
+#### 02 - Linear Regression 의 개념
 
-- Lec - [Lec 02: Simple Linear Regression](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec02/Lec/Lec-02%20Simple%20Liner%20Regression.pdf) ✅
-- Lab - [Lab 02: Simple Linear Regression 를 TensorFlow 로 구현하기](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec02/Lab/Lab-02%20Simple%20Liner%20Regression%20LAB.pdf) ✅
+- [Linear Regression 의 Hypothesis 와 cost](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/02/02_Linear_Regression.pdf) ✅
+- [Tensorflow 로 간단한 Linear Regression을 구현](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/02/02-1_Linear_Regression_Lab.pdf) ✅
 
-#### Lec 03
+#### 03 - Linear Regression cost 함수 최소화
 
-- Lec - [Lec 03:  Linear Regression and How to minimize cost](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec03/Lec/Lec-03%20Liner%20Regression%20and%20How%20to%20minimize%20cost.pdf) ✅
-- Lab - [Lab 03: Linear Regression and How to minimize cost 를 TensorFlow 로 구현하기](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec03/Lab/Lab-03%20Liner%20Regression%20and%20How%20to%20minimize%20cost%20LAB.pdf) ✅
+- Linear Regression 의 cost 최소화 알고리즘의 원리
+- Linear Regression 의 cost 최소화의 Tensorflow 구현
 
-#### Lec 04
+#### 04 - 여러 개의 입력(feature)의 Linear Regression
 
-- Lec - [Lec 04: Multi-variable Linear Regression](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lec/Lec-04%20Multi-variable%20linear%20regression.pdf) ✅
-- Lab - [Lab 04: Multi-variable Linear Regression 를 TensorFlow 로 구현하기](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lab/Lab-04%20Multi-variable%20linear%20regression%20LAB.pdf) ✅
+- Lec - [Lec 04: Multi-variable Linear Regression](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lec/Lec-04%20Multi-variable%20linear%20regression.pdf) 
+- Lab - [Lab 04: Multi-variable Linear Regression 를 TensorFlow 로 구현하기](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lab/Lab-04%20Multi-variable%20linear%20regression%20LAB.pdf) 
 
-#### Lec 05
+#### 05 - Logistic (Regression) Classification
 
 - Lec - Lec 05-1: Logistic Regression/Classification 의 소개
 
@@ -38,7 +46,7 @@
 
 - Lab - Lab 05-3: Logistic Regression/Classification 를 TensorFlow 로 구현하기
 
-#### Lec 06
+#### 06 - Softmax Regression (Multinomial Logistic Regression)
 
 - Lec - Lec 06-1: Softmax Regression: 기본 개념 소개
 
@@ -48,7 +56,7 @@
 
   ​         Lab 06-2: Fancy Softmax classifier 를 TensorFlow 로 구현하기
 
-#### Lec 07
+#### 07 - ML의 실용과 몇 가지 팁
 
 - Lec - Lab 07-1: Application & Tips: 학습률(Learning Rate)과 데이터 전처리(Data Preprocessing)
 
