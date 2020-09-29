@@ -30,13 +30,13 @@
 
 #### 03 - Linear Regression cost 함수 최소화
 
-- Linear Regression 의 cost 최소화 알고리즘의 원리
-- Linear Regression 의 cost 최소화의 Tensorflow 구현
+- [Linear Regression 의 cost 최소화 알고리즘의 원리](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/03/03_Minimizing_Cost.pdf) ✅
+- [Linear Regression 의 cost 최소화의 Tensorflow 구현](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/03/03_Minimizing_Cost_Lab.pdf) ✅
 
 #### 04 - 여러 개의 입력(feature)의 Linear Regression
 
-- Lec - [Lec 04: Multi-variable Linear Regression](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lec/Lec-04%20Multi-variable%20linear%20regression.pdf) 
-- Lab - [Lab 04: Multi-variable Linear Regression 를 TensorFlow 로 구현하기](https://github.com/jum0/DeepLearningFoundationWithTensorflow-BoostCourse/blob/master/Part-1%20Basic%20ML/Lec04/Lab/Lab-04%20Multi-variable%20linear%20regression%20LAB.pdf) 
+- [Multi-variable Linear Regression](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/04/04_Multi-variable_Linear_Regression.pdf) ✅
+- [Multi-variable Linear Regression 를 TensorFlow 로 구현하기](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/04/04-1_Multi-variable_Linear_Regression_Lab.pdf) ✅
 
 #### 05 - Logistic (Regression) Classification
 
