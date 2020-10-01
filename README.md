@@ -40,9 +40,9 @@
 
 #### 05 - Logistic (Regression) Classification
 
-- [Logistic Classification 의 가설 함수 정의](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-1_Logistic_Regression/Classification_Hypothesis_Function.pdf) ✅
-- [Logistic Regression 의 cost 함수 설명](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-2_Logistic_Regression/Classification_Cost_Function.pdf) ✅
-- [TensorFlow 로 Logistic Classification 구현](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-3_Logistic_Classification_Lab.ipynb) ✅
+- [Logistic Classification 의 가설 함수 정의](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-1_Logistic_Regression:Classification_Hypothesis_Function.pdf) ✅
+- [Logistic Regression 의 cost 함수 설명](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-2_Logistic_Regression:Classification_Cost_Function.pdf) ✅
+- [TensorFlow 로 Logistic Classification 구현](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-3_Logistic_Regression:Classification_Lab.ipynb) ✅
 
 #### 06 - Softmax Regression (Multinomial Logistic Regression)
 
