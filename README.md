@@ -30,7 +30,7 @@
 
 #### 03 - Linear Regression cost 함수 최소화
 
-- [Linear Regression 의 cost 최소화 알고리즘의 원리](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/03/03-1_Minimizing_Cost.pdf) ✅
+- [Linear Regression 의 cost 최소화 알고리즘의 원리](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/03/03_Minimizing_Cost.pdf) ✅
 - [TensorFlow로 Linear Regression 의 cost 최소화 구현](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/03/03-1_Minimizing_Cost_Lab.pdf) ✅
 
 #### 04 - 여러 개의 입력(feature)의 Linear Regression
@@ -41,8 +41,8 @@
 #### 05 - Logistic (Regression) Classification
 
 - [Logistic Classification 의 가설 함수 정의](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-1_Logistic_Regression/Classification_Hypothesis_Function.pdf) ✅
-- Logistic Regression 의  cost 함수 설명
-- TensorFlow 로 Logistic Classification 구현
+- [Logistic Regression 의 cost 함수 설명](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-2_Logistic_Regression/Classification_Cost_Function.pdf) ✅
+- [TensorFlow 로 Logistic Classification 구현](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/05/05-3_Logistic_Classification_Lab.ipynb) ✅
 
 #### 06 - Softmax Regression (Multinomial Logistic Regression)
 
