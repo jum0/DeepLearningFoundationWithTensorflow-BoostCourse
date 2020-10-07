@@ -9,6 +9,7 @@
 - [edwith] 머신러닝과 딥러닝 BASIC 강의를 중심으로 진행
 - PDF 에 마크업 도구를 이용해서 필기
 - 실습은 실습 PDF 필기 및 Jupyter Notebook 으로 따라하며 진행
+- 학습을 하면서 궁금한 부분은 [블로그](https://wnsah052.tistory.com/category/Studying/ML)에 정리하며 진행
 
 ## 학습 자료
 
@@ -60,12 +61,7 @@
 
 #### 07 - ML의 실용과 몇 가지 팁
 
-- Lec - Lab 07-1: Application & Tips: 학습률(Learning Rate)과 데이터 전처리(Data Preprocessing)
-
-  ​         Lab 07-2-1: Application & Tips: 오버피팅(Overfitting) & Solutions
-
-  ​         Lab 07-3-1: Application & Tips: Data & Learning
-
-- Lab - Lab 07-2-2: Application & Tips: 학습률, 전처리, 오버피팅을 TensorFlow 로 실습
-
-  ​         Lab 07-3-2: Application & Tips: 다양한 Dataset 으로 실습
+- [학습률(Learning Rate), 오버피팅(Overfitting), 그리고 일반화(Regularization)](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/07/07-1_Learning_Rate_Overfitting_Regularization.pdf) ✅
+- [Training/Testing Dataset](https://github.com/jum0/MachineLearningAndDeepLearningBasic/tree/master/Part-1_Basic_Machine_Learning/07/07-2_Training/Testing_Dataset.pdf) ✅
+- Training/Testing Dataset, Learning Rate, Normalization
+- Meet MNIST Dataset
